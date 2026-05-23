@@ -1,0 +1,27 @@
+📌 Overview
+
+SmartCart Clustering System is a Machine Learning project developed for the e-commerce platform SmartCart. The project focuses on understanding customer behavior by analyzing their purchasing habits, website activity, and engagement patterns. Using clustering techniques, customers are divided into different groups so the company can better understand its users and provide more personalized services.
+
+🚀 Problem Statement
+
+SmartCart currently uses the same marketing strategy for every customer, even though different customers have different shopping behaviors and interests. Because of this, the company faces problems like ineffective marketing, difficulty identifying valuable customers, and poor customer retention. This project aims to solve these issues by creating an intelligent customer segmentation system using machine learning.
+
+🎯 Objective
+
+The main objective of this project is to discover hidden patterns in customer data and group similar customers into meaningful clusters. These customer segments can help the business create personalized marketing campaigns, improve customer engagement, identify loyal customers, and make smarter business decisions based on data.
+
+🧠 Concepts and Tools Used
+
+This project is based on Unsupervised Machine Learning, especially clustering algorithms like:
+
+K-Means Clustering
+Hierarchical Clustering
+DBSCAN
+Tools & Technologies:
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Jupyter Notebook
