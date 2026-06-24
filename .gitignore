@@ -1,0 +1,8 @@
+# Dataset files - do not commit
+DeepLearning/Image-Classification/data/
+*.tar.gz
+*.pkl
+# Dataset files - do not commit
+DeepLearning/Image-Classification/data/
+*.tar.gz
+*.pkl
