@@ -1,4 +1,4 @@
-# 📌 About This Repository .
+# 📌 About This Repository.
 
 Welcome to my Machine Learning Projects Repository!
 
