@@ -60,7 +60,6 @@ Each project is designed to demonstrate how Machine Learning can be applied to r
 * Seaborn
 * Scikit-learn
 * Jupyter Notebook
-
 ---
 
 ## 🎯 Repository Goal
