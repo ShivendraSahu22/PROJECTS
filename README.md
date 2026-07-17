@@ -33,7 +33,7 @@ Each project is designed to demonstrate how Machine Learning can be applied to r
 * Support Vector Machine (SVM)
 * Naive Bayes
 
-### Unsupervised Learning
+### Unsupervised Learning 
 
 * K-Means Clustering
 * Hierarchical Clustering
