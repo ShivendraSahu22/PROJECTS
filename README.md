@@ -6,7 +6,7 @@ This repository contains a collection of Machine Learning and Data Analysis proj
 
 ---
 
- 
+
 ## 📚 Topics Covered
 
 * Supervised Learning
