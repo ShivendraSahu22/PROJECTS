@@ -7,7 +7,7 @@ This repository contains a collection of Machine Learning and Data Analysis proj
 --- 
  
 
-## 📚 Topics Covered
+## 📚 Topics Covered 
 
 * Supervised Learning
 * Unsupervised Learning
