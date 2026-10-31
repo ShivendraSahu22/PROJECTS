@@ -34,7 +34,7 @@ Each project is designed to demonstrate how Machine Learning can be applied to r
 * Naive Bayes
 
 ### Unsupervised Learning 
-
+ 
 * K-Means Clustering
 * Hierarchical Clustering
 * DBSCAN
